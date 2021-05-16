@@ -1,2 +1,2 @@
 # Movies-ETL
-Extract data from Wikipedia for the hackathon and load it is an SQL
+"Extract, Transform, and Load" is the process that will be used in order to create a pipeline for the Amazing Prime Hackathon. First step is to extract the necessary information from Wikipedia data, Kaggle megadata and MovieLens ratings data. Transform refers to the appropriate process that will change the given data into useable, clean data. Loading refers to that cleaned data existing in the PostgreSQL database. 
